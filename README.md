@@ -86,9 +86,6 @@ Sou um jovem desenvolvedor web apaixonado por tecnologia e inovação. Tenho foc
     src="https://github-readme-stats.vercel.app/api?username=samuelfreire7&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
-<br/>
-<br/>
-
 <img 
       align="left" 
       alt="GitHub Stats" 
