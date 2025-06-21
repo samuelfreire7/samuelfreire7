@@ -72,6 +72,7 @@ Sou um jovem desenvolvedor web apaixonado por tecnologia e inovação. Tenho foc
 ## Social
 
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/osamuelfreire/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-freire-a92ba8370/)
 
 
 ### 📊 Estatísticas
